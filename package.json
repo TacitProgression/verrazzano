@@ -198,7 +198,7 @@
     "from2": "^2.3.0",
     "gdal": "^0.9.8",
     "is-iso-date": "^0.0.1",
-    "kml-stream": "^1.1.1",
+    "kml-stream": "TacitProgression/kml-stream",
     "lodash.mapvalues": "^4.6.0",
     "lodash.pick": "^4.4.0",
     "merge2": "^1.2.3",
